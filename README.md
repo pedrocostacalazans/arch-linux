@@ -1,4 +1,4 @@
-# Linux-Manjaro
+# Linux-Arch
 
 ----
 ## Comandos do linux manjaro
