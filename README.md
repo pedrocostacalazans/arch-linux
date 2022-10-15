@@ -70,17 +70,3 @@
 **sudo pacman -S pacote –noconfirm** = Instala o pacote sem precisar confirmar com “yes/no ,S/N”…
 
 **sudo pacman -Syu –ignoregroup pacote1 , pacote2…** = sincroniza os repositórios/procura por atualização e ignora os grupos dos pacotes solicitados
-
-yaourt -Syua –devel = sincronizar a base de dados
-
-yaourt -Syyuua = atualizar o repo AUR
-
-yaourt -Ss nome = pesquisar no repo AUR
-
-yaourt -S nome = instalar pacotes do repo AUR
-
-yaourt -R nome = remover pacotes do repo AUR
-
-yaourt -Rsn nome = remover pacotes + dependências do repo AUR
-
-yaourt -Syu –devel –aur = sincronizar a base de dados e atualiza pacotes
