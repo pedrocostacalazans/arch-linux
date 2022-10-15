@@ -1,7 +1,7 @@
 # Linux-Arch
 
 ----
-## Comandos do linux manjaro
+## Comandos de distros baseadas em Arch Linux
 
 **sudo pacman -Sy** = sincroniza os repositórios.
 
